@@ -1,0 +1,17 @@
+# --- AI & Google SDK ---
+google-genai
+google-generativeai
+
+# --- Screen & Automation ---
+pyautogui
+Pillow
+numpy
+
+# --- Web Interface ---
+Flask
+
+# --- Desktop Notifications (macOS) ---
+pync
+
+# --- Utilities ---
+python-dotenv
